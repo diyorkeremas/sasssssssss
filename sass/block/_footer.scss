@@ -1,0 +1,58 @@
+.footer-her {
+    margin-top: 300px;
+    height: 120px;
+    background: #2C343E;
+}
+
+.foter-yon {
+    display: flex;
+    align-items: center;
+}
+
+.img--s {
+    width: 236px;
+    height: 26px;
+    margin: 40px 80px;
+}
+
+
+.das {
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
+}
+
+.as {
+    margin-right: 40px;
+    text-decoration: none;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    padding-top: 5px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+}
+
+.as:hover {
+    color: white;
+    border-bottom: 2px solid wheat;
+}
+
+.icons {
+    margin-left: 100px;
+    display: flex;
+    gap: 30px;
+    color: white;
+    font-size: 26px;
+}
+
+.fa-cons {
+    color: white;
+}
+
+.fa-cons:hover {
+    color: #FDD6BA;
+}
